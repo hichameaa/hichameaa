@@ -13,8 +13,8 @@ I'm a Full Stack Software Engineer 👨‍💻
 
 ### Github Stats
 
-[![Felix's Github Stats](https://github-readme-stats.vercel.app/api?username=hichameaa&count_private=true&theme=default&show_icons=true)](https://github.com/hichameaa)
-
+[![Hicham's Github Stats](https://github-readme-stats.vercel.app/api?username=hichameaa&count_private=true&theme=default&show_icons=true)](https://github.com/hichameaa)
+![Hicham's github Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hichameaa&layout=compact&hide=Makefile)
 <!--
 **hichameaa/hichameaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
